@@ -1,0 +1,31 @@
+Plant_ID,Site,Location,Quadrat,Species,Date_Planted,Date_Measured,Age_Months,Height_cm,Num_Leaves,Flowering,Num_Flowers,Condition,Notes
+,Site_A,Loc_2,Q1,Leptospermum scoparium,30/05/2018,10/17/24,,88,101,N,0,Good,Access path overgrown on approach. Had to push through gorse; noted for maintenance.
+,Site_A,Loc_2,Q1,Phormium tenax,20-Sep,26/3/25,,76,118,No,0,excellent,Coastal exposure evident. Salt burn on some older leaves. Root anchoring looks strong.
+,site_a,Loc_1,Q2,Leptospermun scoparium,12/8/24,16/11/2024,,61,98,0,0,excellent,Dappled light from pohutukawa overhead. Lichen on stem; sign of clean air.
+,Site_A,Loc_2,Q2,Pittosporum tenuifolium,2/12/24,8/4/25,,57,86,N,1,,Dense ground cover competing. Grass encroaching from all sides. Condition hard to assess.
+,Site_A,Loc_1,Q3,Leptospermum scoparium,8/2/24,13-May,,72,89,yes,5,great condition,Dense leaf litter around base approximately 4cm deep. Strong canopy overhead.
+,Site_A,Loc_2,Q3,Pittosporum tenuifolium,16/07/2024,20/11/2024,,93,158,yes,10,excellent,Excellent specimen. Bird droppings on upper leaves; likely a perch site from canopy above.
+,Site_A,Loc_2,Q3,Coprosma robusta,28/01/2024,15/7/24,,70,122,YES,15,good,Ferns growing adjacent; good habitat complexity developing. Soil moist and well-structured.
+,Site_A,Loc_2,Q3,Leptospermum scoparium,9/9/24,20/11/2024,,33,48,no,0,could be better,Heavily shaded by dense manuka above. Etiolated growth form. Leaf litter 5cm deep around base.
+,Site_A,Loc_1,Q2,Coprosma robusta,3/15/24,11/6/24,,340,156,yes,14,good,Height measurement may be in error; recheck next visit. Loam soil exposed at base.
+,Site_A,Loc_2,Q2,Phormium tenax,14/06/2024,29/11/2024,,98,147,YES,19,great condition,Largest plant in quadrat. Standing water present in shallow depression 2m to south.
+,Site_a,Loc_1,Q3,Hebe speciosa,19/01/2024,4/4/24,,63,847,yes,8,average,Leaf count may be inflated; plant very bushy with dense branching. Recount recommended.
+,Site_A,Loc_1,Q1,Leptospermum scoparium,15/03/2024,20/08/2024,,45,67,Yes,12,good,Leaf litter accumulation around base. Small frog observed nearby.
+,Site_A,Loc_1,Q3,Coprosma robust,25/10/2024,31/3/25,,58,143,No,0,poor,Might be dead; no new growth visible. Bark peeling from lower stem. Check at next visit.
+,Site_A,Loc_1,Q11,Phormium tenax,21-Mar,2/10/24,,92,88,yes,7,looking great,Multiple crowns present; measured tallest. Sandy topsoil exposed around base.
+,Site_A,Loc_1,Q3,Pittosporum tenuifolium,4/9/24,2-Dec,,41,66,No,0,,Not sure it is this species; leaf shape atypical. Check ID next visit. Very shaded position.
+,Site_A,Loc_2,Q3,Pseudopanax crassifolius,,5/10/24,,49,77,No,0,poor,Not sure it is this species; leaves narrower than typical phormium. Check ID next visit.
+,Site_A,Loc_1,Q1,Hebe speciosa,5/6/24,11/10/24,,34,45,Y,3,average,Old plastic bag caught in branches. Area checked for further litter.
+,Site_A,LOC_1,q2,Pittosporum tenuifolium,,5/10/24,,83,127,N,0,good,"Rubbish (drink can) found under plant, removed. Soft soil around roots."
+,Site_A,Loc_2,Q2,Coprosma robusta,7/20/24,28-Oct,,43,71,No,-3,average,Seems unhealthy; very little new growth. Flower count unreliable. Possible data recording error.
+,site_a,Loc_2,Q1,Pittosporum tenuifolium,27/11/2024,3/4/25,,39,54,YES,4,poor,Small plant struggling. Competing grass clumps removed from around stem during visit.
+,Site_A,Loc_2,Q3,Hebe speciosa,11/5/24,15/11/2024,,26,41,No,0,average,Smallest plant in this quadrat. Possible frost pocket micro-site. Very sheltered from wind.
+,Site_A,Loc_1,Q2,Hebe speciosa,22-Jun,28/12/2024,,29,38,No,0,could be better,Some browsing damage on lower leaves. Rabbit pellets observed nearby.
+,Site_A,Loc_1,Q1,Pseudopanax crassifolius,10/11/24,18/05/2025,,55,112,NO,0,could be dead,Very dry conditions. Soil cracked around stem. Plant possibly stressed.
+,Site_A,Loc_1,Q2,Phormiun tenax,22/09/2022,10/1/25,,47,,YES,9,not great,Very dry. Leaf tips browning. Tradescantia present within 1m.
+,Site_A,Loc_l,Q1,Hebe speciosa,6/8/24,13/11/24,,115,163,No,0,good,Very exposed ridge position. Windburn on uppermost leaves. Stem diameter looks good.
+,Site_A,Loc_2,Q1,Coprosma robusta,15/03/2023,17/8/24,,52,79,yes,6,looking great,Very healthy. Berries present on adjacent coprosma; good fruiting season this year.
+,Site_A,LOC_2,Q2,Hebe species,21/04/2023,20/6/24,,81,109,0,0,Good,Very windy on day of measurement. Some difficulty holding height rod steady. Recheck advised.
+,Site_A,Loc_1,q3,Phormium tenax,11/7/24,30/11/2024,,105,172,YES,22,good,Vigorous; multiple flower spikes developing. Wax-eye activity observed in adjacent canopy.
+,Site_A,Loc_1,Q1,Coprosma robusta,7/22/23,24/09/2024,,78,134,No,0,Poor,Weeds encroaching from east side. Possible kikuyu competition at root zone.
+,Site_a,Loc_1,Q3,Hebe speciosa,19/01/2024,4/4/24,,63,847,yes,8,average,Leaf count may be inflated; plant very bushy with dense branching. Recount recommended.

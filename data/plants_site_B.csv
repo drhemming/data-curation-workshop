@@ -1,0 +1,31 @@
+Plant_ID,Site,Location,Quadrat,Species,cleaned_Species,Date_Planted,Date_Measured,Age_Months,Height_cm,Num_Leaves,Flowering,Num_Flowers,Condition,Notes
+,Site_B,Loc_1,Q1,Leptospermum scoparium,,14/03/2024,22/11/24,,48,72,N,0,average,Kikuyu grass dense within 50cm of base. Ground cover competing strongly.
+,site_b,Loc_2,Q1,Phormium tenex,,5/6/24,15/9/24,,85,143,YES,12,good,Healthy leaf spread. Some sedge competition at base but manageable.
+,Site_B,Loc_1,Q2,Pittosporum tenuifolum,,2/7/24,18-Nov,,52,78,N,0,average,Bindweed wrapped around lower branch. Removed during visit.
+,Site_B,Loc_2,Q2,Coprosma robusta,,12/1/24,5/8/24,,64,98,no,0,good,Healthy. Some couch grass competition at edge of root zone.
+,Site_B,Loc_1,Q3,Leptospermun scoparium,,15-Apr,20/10/2024,,39,58,YES,3,poor,Dense tradescantia around base. Weed mat removed during visit.
+,Site_B,Loc_2,Q3,Hebe speciosa,,25/09/2023,14/06/2024,,73,112,yes,6,good,Moderate weed pressure. Plant coping well despite competition.
+,site_B,Loc_1,Q1,Coprosma robusta,,8/4/24,30/11/2024,,55,86,No,0,could be better,Bindweed on lower branches. Condition hard to assess through weed cover.
+,Site_B,Loc_2,Q1,Leptospermum scoparium,,22/11/2023,20/7/24,,81,127,no,0,good,Very little weed competition here. Natural leaf litter forming.
+,Site_B,Loc_1,Q2,Phormium tenax,,18/06/2022,10/1/25,,92,165,YES,15,looking great,Percentage_Cover possibly overestimated; overlap with adjacent plant. Large plant with good vigour.
+,Site_B,Loc_2,Q4,Hebe speciosus,,7/3/24,2/10/24,,33,51,no,0,poor,Very small. Tradescantia smothering base. Plant struggling.
+,SITE_B,LOC_1,Q2,Pittosporum tenuifolium,,11/2/24,23/8/24,,450,109,N,0,good,Height measurement may be in error; measuring tape tangled in wire above. Recheck next visit.
+,Site_B,LOC_2,Q3,Leptospermum scoparium,,20-May,16/10/2024,,44,67,Yes,4,average,Kikuyu rhizomes present beneath mulch layer. Difficult to assess root competition.
+,Site_B,Loc_1,Q4,Coprosma robustus,,6/5/24,18/11/2024,,58,93,no,0,average,Percentage_Cover hard to assess; dense grass cover makes boundary unclear. Flagged for recheck.
+,Site_B,Loc_2,Q1,Pseudopanax crassifolius,,3/1/24,12/9/24,,27,42,NO,0,could be better,Heavily suppressed by surrounding vegetation. No new growth visible this visit.
+,site_b,Loc_1,Q3,Hebe speciosa,,22.09.24,15/3/25,,38,56,yes,2,poor,Condition not fully assessed; heavy rain during visit. Check at next survey.
+,Site_B,Loc_1,Q4,Leptospermum scopariam,,8/1/24,28/10/2024,,61,95,No,0,average,Weeds encroaching from all sides. Annual weed clear recommended.
+,Site_B,Loc_2,Q2,Phormium tenax,,16/07/2023,4/4/24,,95,178,YES,18,looking great,Multiple crowns; vigorous growth. Good barrier effect developing against weed entry.
+,Site_B,Loc_2,Q4,Coprosma robusto,,20-Jun,,,89,25,No,0,not bad,Date_Measured not recorded; recording sheet wet. Values from this visit transcribed but date lost.
+,Site_b,Loc_l,Q3,Hebe speciosa,,5/12/23,22/7/24,,,49,0,0,struggling,Height not recorded; measuring pole broken on site. Leaf count approximate.
+,Site_B,Loc_1,q1,Phormium tenax,,2/10/22,28/11/2024,,105,632,YES,20,good,Leaf count may be inflated; very large plant with dense crown. Recount recommended.
+,Site_B,Loc_2,Q4,Pittosporum tenuifolum,,30/04/2024,5/11/24,,46,68,N,0,poor,Heavily shaded. No new growth. Weed pressure reducing light to lower leaves.
+,Site_B,LOC_1,q4,Pseudopanax crassifolius,,14-Jan,16/8/24,,22,35,No,0,poor,Smallest plant in quadrat. Bark discolouration on lower stem. Possibly struggling.
+,Site_B,Loc_2,Q2,Leptospermum scoparium,,7/11/22,14/3/25,,68,102,yes,7,good,Recovering well. Some competition from adjacent plants but manageable.
+,Site_B,Loc_1,Q1,Pittosporum tenuifolium,,19/08/2024,3-Dec,,40,61,N,1,,Dense gorse noted 5m north. Not yet encroaching but monitoring required.
+,site_b,Loc_2,Q3,Coprosma robusta,,11/3/24,6/10/24,,57,88,no,0,average,Percentage_Cover difficult to assess on steep slope. Value may be underestimated.
+,Site_B,Loc_1,Q2,Leptospermum scoparium,,5/2/24,3/9/24,,53,81,No,0,could be better,Oxalis present around base. Spreading fast; consider manual removal.
+,Site_B,Loc_2,Q4,Phormium tenax,,29/03/2024,22/11/2024,,78,152,YES,11,great condition,Good vigour. Natural sedge barrier forming may reduce future weed pressure.
+,Site_B,Loc_1,Q3,Pittosporum tenuifolium,,8/9/23,20/6/24,,71,118,No,0,average,Ground cover weeds competing. Manual weeding would benefit this plant.
+,Site_B,Loc_2,Q1,Coprosma robusta,,3/5/24,28-Sep,,43,69,Yes,-2,good,Flower count unreliable; counted during windy conditions. Negative value is a data entry error.
+,site_b,Loc_1,Q3,Hebe speciosa,,22.09.24,15/3/25,,38,56,yes,2,poor,Condition not fully assessed; heavy rain during visit. Check at next survey.
