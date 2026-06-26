@@ -4,13 +4,15 @@
 
 ---
 
-## Setup
+## Setup reminder
 
-1. Create folder: `data curation workshop resources 30 June 2026`
-2. Download `plants_site_A.csv`, `plants_site_B.csv`, `plants_sites_AB_large.csv` from Zoom chat
+1. Create workshop folder: Name: `Data curation workshop 30 June 2026`
+2. Download: FOUR items from Zoom chat `plants_site_A.csv`, `plants_site_B.csv`, `plants_sites_AB_large.csv` and Exercise Sheet
 3. Open Copilot at [copilot.microsoft.com](https://copilot.microsoft.com)
-4. Open Word — title: `Prompt log — data curation workshop — 30 June 2026`
-5. Open data in Excel
+4. Open Word — title: `Data curation workshop prompt log — 30 June 2026`
+5. Open Exercise Sheet (tick)
+6. Open `plants_site_A.csv`: Have a look at the data, get your head around it, ask any questions in chat – what might be problematic?
+
 
 ---
 
@@ -27,11 +29,11 @@ Use these steps for every exercise.
 | Step | | What you do |
 |---|---|---|
 | 1 | **Identify task** | Understand what is required |
-| 2 | **Identify potential issues** | Look at the data, run a prompt, note what's wrong in Word |
-| 3 | **Copilot: fix** | Run a prompt to fix the issue |
+| 2 | **Identify potential issues** | Look at data, what's between it & completing task? |
+| 3 | **Copilot assist** | Run a prompt to fix the issue; re-run until outputs mean task completion |
 | 4 | **Validate outputs** | Check the issue is fixed and the task is complete |
-| 5 | **Log it in Word** | Note the prompt and what changed |
-| 6 *(if time allows)* | **Apply** | Use the same prompt on other columns of the same type |
+| 5 | **Log it in Word** | Note: (a) data affected, (b) prompt, (c) what changed |
+| 6 *(Optional)* | **Apply elsewhere** | Use the same prompt on other columns, repeat steps 3-5 |
 
 ---
 
@@ -51,6 +53,8 @@ Attached is my data set (plants_site_A)
 Tell me what you understand about this data — the columns, and what they seem
 to measure.
 ```
+
+(Add this prompt to Word prompt log.)
 
 ---
 
@@ -239,6 +243,9 @@ plants. For each row, I want to know whether the `Notes` field give any reason t
 measurements might be unreliable or need special handling.
 Add two new columns: `Data_Quality_Flag`: Y or N; and `Data_Quality_Notes`: a short reason for any Y."
 ```
+
+What didn't work in Copilot here?
+
 
 ---
 
