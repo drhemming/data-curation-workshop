@@ -249,7 +249,7 @@ What didn't work in Copilot here?
 
 ---
 
-### 4.2 AI R Code
+### 4.2 Copilot-assisted code
 
 **Prompt →**
 ```
@@ -258,6 +258,15 @@ Produce the R code to run these steps myself in one block of code (one script) I
 
 ---
 
-### 4.3 Decision Matrix
-### 4.4 Considerations
-### 4.5 Resources + close
+### 4.3 AI-assisted analysis
+
+Google Colab accesses the AI directly, without having to talk to it through a chatbot. 
+
+The upside of this is you can ask the AI to do much larger and more complex tasks.
+
+For an example of all the steps done in this workshop on the large (1,520 row data set), see here:
+
+[Data Curation Workshop - Colab Script](https://colab.research.google.com/github/drhemming/data-curation-workshop/blob/main/notebooks/llm_data_curation.ipynb)
+
+
+
